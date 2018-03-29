@@ -1,0 +1,11 @@
+http://docs.codeanywhere.com/advancedtopics/gitcommands.html
+
+
+Stage all changes in a file for next commit:
+git add <filename> 
+
+git commit -a 
+
+git remote add origin <server> 
+
+git push -u origin master
